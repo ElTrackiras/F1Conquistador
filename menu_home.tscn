@@ -1,0 +1,49 @@
+[gd_scene load_steps=5 format=3 uid="uid://btve3jq716ydn"]
+
+[ext_resource type="Script" path="res://menu_home.gd" id="1_dps7a"]
+[ext_resource type="Texture2D" uid="uid://yubp218wv4u4" path="res://F1 Conquistador Assets/Buttons/UI_Flat_Button_Small_Release_02a3.png" id="2_2g5uj"]
+[ext_resource type="Texture2D" uid="uid://c6k5uq77t5jbt" path="res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Background/4.png" id="2_q1ye8"]
+[ext_resource type="Texture2D" uid="uid://jxe6dgyxdjc5" path="res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Background/5.png" id="3_jqthh"]
+
+[node name="MenuHome" type="Node2D"]
+script = ExtResource("1_dps7a")
+
+[node name="4" type="Sprite2D" parent="."]
+position = Vector2(267, 99)
+texture = ExtResource("2_q1ye8")
+
+[node name="5" type="Sprite2D" parent="."]
+position = Vector2(272, 115)
+texture = ExtResource("3_jqthh")
+
+[node name="PlayButton" type="TouchScreenButton" parent="."]
+position = Vector2(164, 77)
+scale = Vector2(5.15625, 1)
+texture_normal = ExtResource("2_2g5uj")
+
+[node name="Quit" type="TouchScreenButton" parent="."]
+position = Vector2(164, 143)
+scale = Vector2(5.15625, 1)
+texture_normal = ExtResource("2_2g5uj")
+
+[node name="Label" type="Label" parent="."]
+offset_left = 228.0
+offset_top = 80.0
+offset_right = 268.0
+offset_bottom = 106.0
+theme_override_colors/font_color = Color(0, 0, 0.305882, 1)
+text = "Start"
+
+[node name="Label2" type="Label" parent="."]
+offset_left = 225.0
+offset_top = 146.0
+offset_right = 265.0
+offset_bottom = 172.0
+theme_override_colors/font_color = Color(0, 0, 0.384314, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0)
+text = "Quit"
+
+[connection signal="pressed" from="PlayButton" to="." method="_on_touch_screen_button_pressed"]
+[connection signal="released" from="PlayButton" to="." method="_on_touch_screen_button_released"]
+[connection signal="pressed" from="Quit" to="." method="_on_quit_pressed"]
+[connection signal="released" from="Quit" to="." method="_on_quit_released"]

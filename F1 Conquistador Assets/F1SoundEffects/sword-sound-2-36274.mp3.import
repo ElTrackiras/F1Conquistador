@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bjqi126kqp7o1"
+path="res://.godot/imported/sword-sound-2-36274.mp3-95dfdda23309ca517dfc96b1e45eb145.mp3str"
+
+[deps]
+
+source_file="res://F1 Conquistador Assets/F1SoundEffects/sword-sound-2-36274.mp3"
+dest_files=["res://.godot/imported/sword-sound-2-36274.mp3-95dfdda23309ca517dfc96b1e45eb145.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

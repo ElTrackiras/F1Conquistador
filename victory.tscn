@@ -1,0 +1,44 @@
+[gd_scene load_steps=3 format=3 uid="uid://dnl3xfgnhyn1l"]
+
+[ext_resource type="Script" path="res://victory.gd" id="1_8qp2v"]
+[ext_resource type="Texture2D" uid="uid://dd1sikk83emdq" path="res://F1 Conquistador Assets/1 Tiles/IndustrialTile_25.png" id="1_p3ol2"]
+
+[node name="Victory" type="Node2D"]
+script = ExtResource("1_8qp2v")
+
+[node name="Label" type="Label" parent="."]
+offset_left = 187.0
+offset_top = 36.0
+offset_right = 270.0
+offset_bottom = 62.0
+text = "You won!"
+uppercase = true
+
+[node name="Restart Level" type="TouchScreenButton" parent="."]
+position = Vector2(128, 78)
+scale = Vector2(6.0625, 1.71875)
+texture_normal = ExtResource("1_p3ol2")
+
+[node name="Menu" type="TouchScreenButton" parent="."]
+position = Vector2(128, 168)
+scale = Vector2(6.063, 1.719)
+texture_normal = ExtResource("1_p3ol2")
+
+[node name="Label3" type="Label" parent="."]
+offset_left = 168.0
+offset_top = 184.0
+offset_right = 288.0
+offset_bottom = 210.0
+text = "BACK TO MENU"
+uppercase = true
+
+[node name="Label2" type="Label" parent="."]
+offset_left = 193.0
+offset_top = 92.0
+offset_right = 276.0
+offset_bottom = 118.0
+text = "RESTART"
+uppercase = true
+
+[connection signal="released" from="Restart Level" to="." method="_on_restart_level_released"]
+[connection signal="released" from="Menu" to="." method="_on_menu_released"]

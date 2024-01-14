@@ -1,0 +1,35 @@
+[gd_scene load_steps=4 format=3 uid="uid://dtc5l2jdu01wv"]
+
+[ext_resource type="Texture2D" uid="uid://dfrmnlmksxiib" path="res://F1 Conquistador Assets/Buttons/UI_Flat_Button_Small_Release_02a4.png" id="1_mmwd4"]
+[ext_resource type="Script" path="res://lets_go.gd" id="1_ql25d"]
+[ext_resource type="Texture2D" uid="uid://c6k5uq77t5jbt" path="res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Background/4.png" id="2_gm2se"]
+
+[node name="LetsGo" type="Node2D"]
+script = ExtResource("1_ql25d")
+
+[node name="4" type="Sprite2D" parent="."]
+position = Vector2(241, 111)
+texture = ExtResource("2_gm2se")
+
+[node name="Label" type="Label" parent="."]
+offset_left = 41.0
+offset_top = 29.0
+offset_right = 305.0
+offset_bottom = 81.0
+text = "The city is infested with Pigs! Save 
+the world by killing the Pig King."
+
+[node name="Go" type="TouchScreenButton" parent="."]
+position = Vector2(340, 213)
+scale = Vector2(3.78125, 1)
+texture_normal = ExtResource("1_mmwd4")
+
+[node name="Label2" type="Label" parent="."]
+offset_left = 384.0
+offset_top = 216.0
+offset_right = 424.0
+offset_bottom = 243.0
+theme_override_colors/font_shadow_color = Color(0.0156863, 0, 0.12549, 1)
+text = "Go"
+
+[connection signal="released" from="Go" to="." method="_on_go_released"]

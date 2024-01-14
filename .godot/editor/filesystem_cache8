@@ -1,0 +1,337 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1694060225
+Camera2D.gd::GDScript::-1::1693322488::0::1::::<>Camera2D<>::
+export_presets.cfg::TextFile::-1::1693829665::0::1::::<><>::
+game_over.gd::GDScript::-1::1693828555::0::1::::<>Node2D<>::
+game_over.tscn::PackedScene::4564878579805229394::1693926694::0::1::::<><>::res://game_over.gd<>uid://c5xax2qnqyptt::::res://F1 Conquistador Assets/Buttons/UI_Flat_Button_Large_Lock_01a1.png
+HealthLabel.gd::GDScript::-1::1693394641::0::1::::<>Label<>::
+lets_go.gd::GDScript::-1::1693827066::0::1::::<>Node2D<>::
+lets_go.tscn::PackedScene::8498821421423725841::1693926694::0::1::::<><>::uid://dfrmnlmksxiib::::res://F1 Conquistador Assets/Buttons/UI_Flat_Button_Small_Release_02a4.png<>res://lets_go.gd<>uid://c6k5uq77t5jbt::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Background/4.png
+Level1.gd::GDScript::-1::1693926704::0::1::::<>Node2D<>::
+Level1.tscn::PackedScene::99080540706664824::1693926704::0::1::::<><>::res://Level1.gd<>uid://bxoy4pwjotaot::::res://F1 Conquistador Assets/Circuits/circuitNodes.png<>uid://bn7c46p72vxbj::::res://F1 Conquistador Assets/Ronin Character/F1Player.tscn<>uid://c6k5uq77t5jbt::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Background/4.png<>uid://jxe6dgyxdjc5::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Background/5.png<>uid://d08e4gnsflud2::::res://F1 Conquistador Assets/1 Tiles/IndustrialTile_02.png<>uid://c228sc2b8sxq5::::res://F1 Conquistador Assets/Ronin Character/boar.tscn<>uid://b8p0c6f86pec7::::res://F1 Conquistador Assets/1 Tiles/IndustrialTile_13.png<>uid://bg5rwh0phaf8l::::res://F1 Conquistador Assets/1 Tiles/IndustrialTile_15.png<>res://Camera2D.gd<>uid://dvnji0i3o8w7i::::res://F1 Conquistador Assets/1 Tiles/IndustrialTile_03.png<>res://HealthLabel.gd<>uid://cao41sgx8ryt6::::res://F1 Conquistador Assets/ButtonIcons/tile032.png<>uid://g32t04c2yg4a::::res://F1 Conquistador Assets/ButtonIcons/tile037.png<>uid://c1qtdi2wsvd7q::::res://F1 Conquistador Assets/ButtonIcons/tile089.png<>uid://cut60elcy3bxm::::res://F1 Conquistador Assets/ButtonIcons/tile006.png<>uid://dh8ldd38o44c0::::res://F1 Conquistador Assets/1 Tiles/IndustrialTile_27.png<>uid://c5xax2qnqyptt::::res://F1 Conquistador Assets/Buttons/UI_Flat_Button_Large_Lock_01a1.png<>uid://bxeqnkjbvqtrb::::res://F1 Conquistador Assets/Ronin Character/bigboar.tscn<>uid://dooemy38gsf2l::::res://F1 Conquistador Assets/1 Tiles/IndustrialTile_04.png<>uid://bdki2j3f7fpgd::::res://F1 Conquistador Assets/1 Tiles/IndustrialTile_36.png<>uid://c6fbqlfrjxwsu::::res://F1 Conquistador Assets/1 Tiles/IndustrialTile_05.png<>uid://bpb033u7t1g4w::::res://F1 Conquistador Assets/1 Tiles/IndustrialTile_06.png<>uid://dfi4yin4cyv82::::res://F1 Conquistador Assets/1 Tiles/IndustrialTile_55.png
+menu_home.gd::GDScript::-1::1693826500::0::1::::<>Node2D<>::
+menu_home.tscn::PackedScene::3763654014768321131::1693926694::0::1::::<><>::res://menu_home.gd<>uid://yubp218wv4u4::::res://F1 Conquistador Assets/Buttons/UI_Flat_Button_Small_Release_02a3.png<>uid://c6k5uq77t5jbt::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Background/4.png<>uid://jxe6dgyxdjc5::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Background/5.png
+victory.gd::GDScript::-1::1693759127::0::1::::<>Node2D<>::
+victory.tscn::PackedScene::8096166595212206595::1693926694::0::1::::<><>::res://victory.gd<>uid://dd1sikk83emdq::::res://F1 Conquistador Assets/1 Tiles/IndustrialTile_25.png
+::res://android/::1693386937
+::res://android/plugins/::1693829241
+::res://F1 Conquistador Assets/::1693829223
+::res://F1 Conquistador Assets/1 Tiles/::1693235991
+IndustrialTile_01.png::CompressedTexture2D::752918670124576839::1693235975::1693235991::1::::<><>::
+IndustrialTile_02.png::CompressedTexture2D::8982402599955926393::1693235975::1693235991::1::::<><>::
+IndustrialTile_03.png::CompressedTexture2D::8660626744301310728::1693235975::1693235991::1::::<><>::
+IndustrialTile_04.png::CompressedTexture2D::8171072753389546309::1693235975::1693235991::1::::<><>::
+IndustrialTile_05.png::CompressedTexture2D::6959107284896982648::1693235975::1693235991::1::::<><>::
+IndustrialTile_06.png::CompressedTexture2D::3442887146096391432::1693235975::1693235991::1::::<><>::
+IndustrialTile_07.png::CompressedTexture2D::3274430924582710080::1693235975::1693235991::1::::<><>::
+IndustrialTile_08.png::CompressedTexture2D::5951262089677070648::1693235975::1693235991::1::::<><>::
+IndustrialTile_09.png::CompressedTexture2D::2613483726699937911::1693235975::1693235991::1::::<><>::
+IndustrialTile_10.png::CompressedTexture2D::7234900949300076515::1693235975::1693235991::1::::<><>::
+IndustrialTile_11.png::CompressedTexture2D::3229439347910967897::1693235975::1693235991::1::::<><>::
+IndustrialTile_12.png::CompressedTexture2D::928577688892296241::1693235975::1693235991::1::::<><>::
+IndustrialTile_13.png::CompressedTexture2D::4735141323955303996::1693235975::1693235991::1::::<><>::
+IndustrialTile_14.png::CompressedTexture2D::5404236669876327446::1693235975::1693235991::1::::<><>::
+IndustrialTile_15.png::CompressedTexture2D::2870556961460480273::1693235975::1693235991::1::::<><>::
+IndustrialTile_16.png::CompressedTexture2D::4482350918791209127::1693235975::1693235991::1::::<><>::
+IndustrialTile_17.png::CompressedTexture2D::9170754505820241076::1693235975::1693235991::1::::<><>::
+IndustrialTile_18.png::CompressedTexture2D::5019431448656492880::1693235975::1693235991::1::::<><>::
+IndustrialTile_19.png::CompressedTexture2D::1591666802254539471::1693235975::1693235990::1::::<><>::
+IndustrialTile_20.png::CompressedTexture2D::7610971865084763553::1693235975::1693235990::1::::<><>::
+IndustrialTile_21.png::CompressedTexture2D::4673390731541222435::1693235975::1693235991::1::::<><>::
+IndustrialTile_22.png::CompressedTexture2D::4695927699665934274::1693235975::1693235991::1::::<><>::
+IndustrialTile_23.png::CompressedTexture2D::4605737995772122624::1693235975::1693235991::1::::<><>::
+IndustrialTile_24.png::CompressedTexture2D::734442106437639772::1693235975::1693235991::1::::<><>::
+IndustrialTile_25.png::CompressedTexture2D::7424610138038493222::1693235975::1693235991::1::::<><>::
+IndustrialTile_26.png::CompressedTexture2D::8612619711792520332::1693235975::1693235991::1::::<><>::
+IndustrialTile_27.png::CompressedTexture2D::7719381869075473465::1693235975::1693235991::1::::<><>::
+IndustrialTile_28.png::CompressedTexture2D::7637916217729579642::1693235975::1693235991::1::::<><>::
+IndustrialTile_29.png::CompressedTexture2D::6066950490966584907::1693235975::1693235991::1::::<><>::
+IndustrialTile_30.png::CompressedTexture2D::4472048075499388118::1693235975::1693235991::1::::<><>::
+IndustrialTile_31.png::CompressedTexture2D::2294913816781027635::1693235975::1693235991::1::::<><>::
+IndustrialTile_32.png::CompressedTexture2D::6242546161186521807::1693235975::1693235991::1::::<><>::
+IndustrialTile_33.png::CompressedTexture2D::7221616266783561623::1693235975::1693235991::1::::<><>::
+IndustrialTile_34.png::CompressedTexture2D::8803577082843728177::1693235975::1693235991::1::::<><>::
+IndustrialTile_35.png::CompressedTexture2D::2197596873914257370::1693235975::1693235991::1::::<><>::
+IndustrialTile_36.png::CompressedTexture2D::2618165460760188755::1693235975::1693235991::1::::<><>::
+IndustrialTile_37.png::CompressedTexture2D::7839329480555333868::1693235975::1693235991::1::::<><>::
+IndustrialTile_38.png::CompressedTexture2D::679488854740546387::1693235975::1693235991::1::::<><>::
+IndustrialTile_39.png::CompressedTexture2D::5740487980554609074::1693235975::1693235991::1::::<><>::
+IndustrialTile_40.png::CompressedTexture2D::7616681217142004776::1693235975::1693235991::1::::<><>::
+IndustrialTile_41.png::CompressedTexture2D::8950583251580965206::1693235975::1693235991::1::::<><>::
+IndustrialTile_42.png::CompressedTexture2D::8809967426838969099::1693235975::1693235990::1::::<><>::
+IndustrialTile_43.png::CompressedTexture2D::5883254567622717449::1693235975::1693235990::1::::<><>::
+IndustrialTile_44.png::CompressedTexture2D::3166266569167349963::1693235975::1693235990::1::::<><>::
+IndustrialTile_45.png::CompressedTexture2D::25807398769768598::1693235975::1693235990::1::::<><>::
+IndustrialTile_46.png::CompressedTexture2D::5275281841679134441::1693235975::1693235990::1::::<><>::
+IndustrialTile_47.png::CompressedTexture2D::5962696118033918759::1693235975::1693235990::1::::<><>::
+IndustrialTile_48.png::CompressedTexture2D::9184124749150744578::1693235975::1693235990::1::::<><>::
+IndustrialTile_49.png::CompressedTexture2D::5031754414997191540::1693235975::1693235990::1::::<><>::
+IndustrialTile_50.png::CompressedTexture2D::1657355916856989845::1693235975::1693235990::1::::<><>::
+IndustrialTile_51.png::CompressedTexture2D::5119715302317243512::1693235975::1693235990::1::::<><>::
+IndustrialTile_52.png::CompressedTexture2D::4092816413148800621::1693235975::1693235990::1::::<><>::
+IndustrialTile_53.png::CompressedTexture2D::4959347814988294339::1693235975::1693235990::1::::<><>::
+IndustrialTile_54.png::CompressedTexture2D::7596652669879901530::1693235975::1693235990::1::::<><>::
+IndustrialTile_55.png::CompressedTexture2D::7528525384736415505::1693235975::1693235990::1::::<><>::
+IndustrialTile_56.png::CompressedTexture2D::5648647241130621075::1693235975::1693235990::1::::<><>::
+IndustrialTile_57.png::CompressedTexture2D::4167281973774213734::1693235975::1693235990::1::::<><>::
+IndustrialTile_58.png::CompressedTexture2D::8440316690563865628::1693235975::1693235990::1::::<><>::
+IndustrialTile_59.png::CompressedTexture2D::998006429705805731::1693235975::1693235990::1::::<><>::
+IndustrialTile_60.png::CompressedTexture2D::1303571155454404844::1693235975::1693235990::1::::<><>::
+IndustrialTile_61.png::CompressedTexture2D::2221508300949244226::1693235975::1693235990::1::::<><>::
+IndustrialTile_62.png::CompressedTexture2D::984609788749459738::1693235975::1693235990::1::::<><>::
+IndustrialTile_63.png::CompressedTexture2D::8967697551765234177::1693235975::1693235990::1::::<><>::
+IndustrialTile_64.png::CompressedTexture2D::6326110928539502048::1693235975::1693235990::1::::<><>::
+IndustrialTile_65.png::CompressedTexture2D::1275451497460360340::1693235975::1693235990::1::::<><>::
+IndustrialTile_66.png::CompressedTexture2D::7394215674383642271::1693235975::1693235990::1::::<><>::
+IndustrialTile_67.png::CompressedTexture2D::2045082019371213487::1693235975::1693235990::1::::<><>::
+IndustrialTile_68.png::CompressedTexture2D::7663426423429936102::1693235975::1693235990::1::::<><>::
+IndustrialTile_69.png::CompressedTexture2D::5782959546645307606::1693235975::1693235990::1::::<><>::
+IndustrialTile_70.png::CompressedTexture2D::1593396874571800215::1693235975::1693235990::1::::<><>::
+IndustrialTile_71.png::CompressedTexture2D::878841208301354417::1693235975::1693235990::1::::<><>::
+IndustrialTile_72.png::CompressedTexture2D::8163729287398900474::1693235975::1693235990::1::::<><>::
+IndustrialTile_73.png::CompressedTexture2D::575000149491258215::1693235975::1693235990::1::::<><>::
+IndustrialTile_74.png::CompressedTexture2D::230137696668179631::1693235975::1693235990::1::::<><>::
+IndustrialTile_75.png::CompressedTexture2D::6307414731430987901::1693235975::1693235990::1::::<><>::
+IndustrialTile_76.png::CompressedTexture2D::5327600241857937204::1693235975::1693235990::1::::<><>::
+IndustrialTile_77.png::CompressedTexture2D::2231925209531423600::1693235975::1693235990::1::::<><>::
+IndustrialTile_78.png::CompressedTexture2D::2784498227334925040::1693235975::1693235990::1::::<><>::
+IndustrialTile_79.png::CompressedTexture2D::7028687534952978249::1693235975::1693235990::1::::<><>::
+IndustrialTile_80.png::CompressedTexture2D::6438946157952959984::1693235975::1693235990::1::::<><>::
+IndustrialTile_81.png::CompressedTexture2D::2867106535082885906::1693235975::1693235990::1::::<><>::
+::res://F1 Conquistador Assets/ButtonIcons/::1693393692
+tile006.png::CompressedTexture2D::6217768516307662846::1693393648::1693393648::1::::<><>::
+tile032.png::CompressedTexture2D::4803550835153733245::1693393692::1693393692::1::::<><>::
+tile037.png::CompressedTexture2D::480610285841740386::1693393666::1693393666::1::::<><>::
+tile089.png::CompressedTexture2D::6631940789205261732::1693393679::1693393680::1::::<><>::
+::res://F1 Conquistador Assets/Buttons/::1693826758
+UI_Flat_Banner_01_Downward.png::CompressedTexture2D::8770760378887749731::1693826742::1693826757::1::::<><>::
+UI_Flat_Banner_01_Upward.png::CompressedTexture2D::5337389002401895658::1693826742::1693826757::1::::<><>::
+UI_Flat_Banner_02_Downward.png::CompressedTexture2D::8241524726517607045::1693826742::1693826757::1::::<><>::
+UI_Flat_Banner_02_Upward.png::CompressedTexture2D::2097798159487333311::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Lock_01a1.png::CompressedTexture2D::6926029881590688821::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Lock_01a2.png::CompressedTexture2D::2514459090263635724::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Lock_01a3.png::CompressedTexture2D::3776917352282108330::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Lock_01a4.png::CompressedTexture2D::5168437651855871689::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Lock_02a1.png::CompressedTexture2D::8031025223524839705::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Lock_02a2.png::CompressedTexture2D::5480401392454136369::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Lock_02a3.png::CompressedTexture2D::3422459099381334075::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Lock_02a4.png::CompressedTexture2D::8060863497656253267::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Press_01a1.png::CompressedTexture2D::5453178499279485538::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Press_01a2.png::CompressedTexture2D::7516221956356590053::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Press_01a3.png::CompressedTexture2D::1484824603376372965::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Press_01a4.png::CompressedTexture2D::4839352540106998589::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Press_02a1.png::CompressedTexture2D::2107054064317785757::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Press_02a2.png::CompressedTexture2D::2792123949339469947::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Press_02a3.png::CompressedTexture2D::479322488599672621::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Press_02a4.png::CompressedTexture2D::7320750460459008002::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Release_01a1.png::CompressedTexture2D::833798101193217216::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Release_01a2.png::CompressedTexture2D::8473015069496810038::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Release_01a3.png::CompressedTexture2D::1457152166744580019::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Release_01a4.png::CompressedTexture2D::1689508155983348933::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Release_02a1.png::CompressedTexture2D::5359298389531292359::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Release_02a2.png::CompressedTexture2D::9195149310658735492::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Release_02a3.png::CompressedTexture2D::1253405289586799341::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Large_Release_02a4.png::CompressedTexture2D::307510257736319114::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Medium_Lock_01a1.png::CompressedTexture2D::1835727125562529980::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Medium_Lock_01a2.png::CompressedTexture2D::6009448457690111995::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Medium_Lock_01a3.png::CompressedTexture2D::6248123029411343422::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Medium_Lock_01a4.png::CompressedTexture2D::6333726716916282402::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Medium_Lock_02a1.png::CompressedTexture2D::3359809352870609274::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Medium_Lock_02a2.png::CompressedTexture2D::3903884718877696415::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Lock_02a3.png::CompressedTexture2D::5740984289205720022::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Lock_02a4.png::CompressedTexture2D::1341266382824521443::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Press_01a1.png::CompressedTexture2D::2144255639872493681::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Press_01a2.png::CompressedTexture2D::5628858139918596997::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Press_01a3.png::CompressedTexture2D::914533899400569716::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Press_01a4.png::CompressedTexture2D::3626069527781152402::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Press_02a1.png::CompressedTexture2D::4848306923408903329::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Press_02a2.png::CompressedTexture2D::1274727506145874075::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Press_02a3.png::CompressedTexture2D::6142310677474583495::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Press_02a4.png::CompressedTexture2D::4639145350962986355::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Release_01a1.png::CompressedTexture2D::3777259524784890629::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Release_01a2.png::CompressedTexture2D::5564659279657512326::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Release_01a3.png::CompressedTexture2D::9126764612928813997::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Release_01a4.png::CompressedTexture2D::6219800313622048672::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Release_02a1.png::CompressedTexture2D::798626148296196452::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Release_02a2.png::CompressedTexture2D::8661793881922670246::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Release_02a3.png::CompressedTexture2D::430144158409956869::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Medium_Release_02a4.png::CompressedTexture2D::8595162891470709023::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Small_Lock_01a1.png::CompressedTexture2D::734849660779595224::1693826742::1693826758::1::::<><>::
+UI_Flat_Button_Small_Lock_01a2.png::CompressedTexture2D::8860949582435985774::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Lock_01a3.png::CompressedTexture2D::3145779179758345386::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Lock_01a4.png::CompressedTexture2D::8826446104444338452::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Lock_02a1.png::CompressedTexture2D::3851634844546256342::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Lock_02a2.png::CompressedTexture2D::707271040727179197::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Lock_02a3.png::CompressedTexture2D::9110797404767152672::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Lock_02a4.png::CompressedTexture2D::6653534522813740336::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Press_01a1.png::CompressedTexture2D::2315042256613698286::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Press_01a2.png::CompressedTexture2D::9086177539702356133::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Press_01a3.png::CompressedTexture2D::7785190894097525579::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Press_01a4.png::CompressedTexture2D::3880170252042555474::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Press_02a1.png::CompressedTexture2D::4879770216834777449::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Press_02a2.png::CompressedTexture2D::1610183408424518981::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Press_02a3.png::CompressedTexture2D::6694962133150283529::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Press_02a4.png::CompressedTexture2D::986470849412858619::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Release_01a1.png::CompressedTexture2D::8759228267165522450::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Release_01a2.png::CompressedTexture2D::3903941165031095864::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Release_01a3.png::CompressedTexture2D::2467133310717444171::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Release_01a4.png::CompressedTexture2D::1829587963180259905::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Release_02a1.png::CompressedTexture2D::4497065125014670617::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Release_02a2.png::CompressedTexture2D::7107612154033801526::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Release_02a3.png::CompressedTexture2D::1725908766120309345::1693826742::1693826757::1::::<><>::
+UI_Flat_Button_Small_Release_02a4.png::CompressedTexture2D::7546053107096268873::1693826742::1693826757::1::::<><>::
+UI_Flat_Checkmark_Large.png::CompressedTexture2D::7377881330984551882::1693826742::1693826757::1::::<><>::
+UI_Flat_Checkmark_Medium.png::CompressedTexture2D::7920998509643950594::1693826742::1693826757::1::::<><>::
+UI_Flat_Checkmark_Small.png::CompressedTexture2D::8077646974121935476::1693826742::1693826757::1::::<><>::
+UI_Flat_Cross_Large.png::CompressedTexture2D::3137553027664644207::1693826742::1693826757::1::::<><>::
+UI_Flat_Cross_Medium.png::CompressedTexture2D::4257377755360777209::1693826742::1693826757::1::::<><>::
+UI_Flat_Cross_Small.png::CompressedTexture2D::7210957575513245502::1693826742::1693826757::1::::<><>::
+UI_Flat_Dropdown.png::CompressedTexture2D::4604188243009603723::1693826742::1693826757::1::::<><>::
+UI_Flat_Dropdown_Handle.png::CompressedTexture2D::7677649214065476338::1693826742::1693826757::1::::<><>::
+UI_Flat_Fillbar_01_Block.png::CompressedTexture2D::3886170670602312402::1693826742::1693826757::1::::<><>::
+UI_Flat_Fillbar_01_Flat.png::CompressedTexture2D::8464187449241406563::1693826742::1693826757::1::::<><>::
+UI_Flat_Fillbar_01_Hollow.png::CompressedTexture2D::7697047308289208731::1693826742::1693826757::1::::<><>::
+UI_Flat_Fillbar_02_Block.png::CompressedTexture2D::3804231499854936148::1693826742::1693826757::1::::<><>::
+UI_Flat_Fillbar_02_Flat.png::CompressedTexture2D::4301002172730324244::1693826742::1693826757::1::::<><>::
+UI_Flat_Fillbar_02_Hollow.png::CompressedTexture2D::4662728080532412522::1693826742::1693826757::1::::<><>::
+UI_Flat_Filler_01.png::CompressedTexture2D::5146754449445211099::1693826742::1693826757::1::::<><>::
+UI_Flat_Filler_02.png::CompressedTexture2D::6096885014695645020::1693826742::1693826757::1::::<><>::
+UI_Flat_Filler_03.png::CompressedTexture2D::764019281737391354::1693826742::1693826757::1::::<><>::
+UI_Flat_Filler_04.png::CompressedTexture2D::1067024002011736786::1693826742::1693826757::1::::<><>::
+UI_Flat_Filler_05.png::CompressedTexture2D::2958337815229621688::1693826742::1693826757::1::::<><>::
+UI_Flat_Frame_01_Horizontal.png::CompressedTexture2D::2916150771155550006::1693826742::1693826757::1::::<><>::
+UI_Flat_Frame_01_Inward.png::CompressedTexture2D::7205294305827056669::1693826742::1693826757::1::::<><>::
+UI_Flat_Frame_01_Lite.png::CompressedTexture2D::5152465489318640531::1693826742::1693826757::1::::<><>::
+UI_Flat_Frame_01_Standard.png::CompressedTexture2D::5698724994638181056::1693826742::1693826757::1::::<><>::
+UI_Flat_Frame_01_Vertical.png::CompressedTexture2D::7686037181254380751::1693826742::1693826757::1::::<><>::
+UI_Flat_Frame_02_Horizontal.png::CompressedTexture2D::7584256838615157222::1693826742::1693826757::1::::<><>::
+UI_Flat_Frame_02_Inward.png::CompressedTexture2D::5719417909861619016::1693826742::1693826757::1::::<><>::
+UI_Flat_Frame_02_Lite.png::CompressedTexture2D::8068166216671617270::1693826742::1693826757::1::::<><>::
+UI_Flat_Frame_02_Standard.png::CompressedTexture2D::4876370926326458796::1693826742::1693826757::1::::<><>::
+UI_Flat_Frame_02_Vertical.png::CompressedTexture2D::3389743399822035019::1693826742::1693826757::1::::<><>::
+UI_Flat_Scrollbar_01.png::CompressedTexture2D::4702291608392363923::1693826742::1693826757::1::::<><>::
+UI_Flat_Scrollbar_02.png::CompressedTexture2D::6940587992593946704::1693826742::1693826757::1::::<><>::
+UI_Flat_Scrollbar_03.png::CompressedTexture2D::1285684215921743107::1693826742::1693826757::1::::<><>::
+UI_Flat_Scrollbar_04.png::CompressedTexture2D::2133120082038198137::1693826742::1693826757::1::::<><>::
+UI_Flat_Scrollbar_Handle_01.png::CompressedTexture2D::4232743447224198840::1693826742::1693826757::1::::<><>::
+UI_Flat_Scrollbar_Handle_02.png::CompressedTexture2D::3748461030706596972::1693826742::1693826757::1::::<><>::
+UI_Flat_Scrollbar_Handle_03.png::CompressedTexture2D::2782509945483405674::1693826742::1693826757::1::::<><>::
+UI_Flat_Scrollbar_Handle_04.png::CompressedTexture2D::6843408983991276555::1693826742::1693826757::1::::<><>::
+UI_Flat_Select_01a1.png::CompressedTexture2D::4839658305347325819::1693826742::1693826757::1::::<><>::
+UI_Flat_Select_01a2.png::CompressedTexture2D::1050435282269771632::1693826742::1693826757::1::::<><>::
+UI_Flat_Select_01a3.png::CompressedTexture2D::1322349874898049528::1693826742::1693826757::1::::<><>::
+UI_Flat_Select_01a4.png::CompressedTexture2D::2029754806543095033::1693826742::1693826757::1::::<><>::
+UI_Flat_Select_02a1.png::CompressedTexture2D::1367691060459794899::1693826742::1693826757::1::::<><>::
+UI_Flat_Select_02a2.png::CompressedTexture2D::4850112967648772193::1693826742::1693826757::1::::<><>::
+UI_Flat_Select_02a3.png::CompressedTexture2D::4500931081977595483::1693826742::1693826757::1::::<><>::
+UI_Flat_Select_02a4.png::CompressedTexture2D::6206848401028875109::1693826742::1693826757::1::::<><>::
+UI_Flat_Slider.png::CompressedTexture2D::6671206607363195348::1693826742::1693826757::1::::<><>::
+UI_Flat_Slider_Filler.png::CompressedTexture2D::7059904475695226925::1693826742::1693826757::1::::<><>::
+UI_Flat_Slot_01_Available.png::CompressedTexture2D::201646741680755064::1693826742::1693826757::1::::<><>::
+UI_Flat_Slot_01_Selected.png::CompressedTexture2D::7271223501221819147::1693826742::1693826757::1::::<><>::
+UI_Flat_Slot_01_Unavailable.png::CompressedTexture2D::715232782874362270::1693826742::1693826757::1::::<><>::
+UI_Flat_Slot_02_Available.png::CompressedTexture2D::8333608035053117577::1693826742::1693826757::1::::<><>::
+UI_Flat_Slot_02_Selected.png::CompressedTexture2D::9203883999342570866::1693826742::1693826757::1::::<><>::
+UI_Flat_Slot_02_Unavailable.png::CompressedTexture2D::4715349811055678913::1693826742::1693826757::1::::<><>::
+UI_Flat_Textfield_01.png::CompressedTexture2D::1105679832954826143::1693826742::1693826757::1::::<><>::
+UI_Flat_Textfield_02.png::CompressedTexture2D::3715662651094349558::1693826742::1693826757::1::::<><>::
+::res://F1 Conquistador Assets/Circuits/::1693230829
+circuitNodes.png::CompressedTexture2D::4031175194038643975::1693226522::1693229862::1::::<><>::
+TreeCircuit.png::CompressedTexture2D::8561846495301042328::1693229904::1693229904::1::::<><>::
+::res://F1 Conquistador Assets/F1SoundEffects/::1693829538
+F1LOGO1.png::CompressedTexture2D::3549801597026582840::1693829537::1693829538::1::::<><>::
+pig-oink-47167.mp3::AudioStreamMP3::4568981083160447887::1693335785::1693335786::1::::<><>::
+running-1-6846.mp3::AudioStreamMP3::3278352950579154427::1693337306::1693337313::1::::<><>::
+samurai-slash-6845.mp3::AudioStreamMP3::171253962497290964::1693333517::1693333518::1::::<><>::
+slash-21834.mp3::AudioStreamMP3::3615942238932256066::1693333517::1693333518::1::::<><>::
+slashkut-108175.mp3::AudioStreamMP3::6258437639824968040::1693333517::1693333518::1::::<><>::
+spade-hacking-sound-with-gore-effects-96909.mp3::AudioStreamMP3::5578014474145886524::1693333517::1693333518::1::::<><>::
+swing-whoosh-110410.mp3::AudioStreamMP3::2110186414937374117::1693337779::1693337780::1::::<><>::
+sword-sound-2-36274.mp3::AudioStreamMP3::3051683953579761390::1693333517::1693333518::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/::1693829196
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Assets/::1693120797
+Buildings.png::CompressedTexture2D::604770207846836765::1693120796::1693120797::1::::<><>::
+Hive.png::CompressedTexture2D::6093205384765021010::1693120796::1693120797::1::::<><>::
+Interior-01.png::CompressedTexture2D::2314003690043658400::1693120796::1693120797::1::::<><>::
+Props-Rocks.png::CompressedTexture2D::8649429982807788702::1693120796::1693120797::1::::<><>::
+Tiles.png::CompressedTexture2D::1033264797910089342::1693120796::1693120797::1::::<><>::
+Tree-Assets.png::CompressedTexture2D::9113797414288092707::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Background/::1693331879
+1.png::CompressedTexture2D::1372836630110389581::1693331879::1693331879::1::::<><>::
+3.png::CompressedTexture2D::7657502725412968178::1693331809::1693331809::1::::<><>::
+4.png::CompressedTexture2D::6971197414654752761::1693331809::1693331809::1::::<><>::
+5.png::CompressedTexture2D::679478676627975182::1693331809::1693331809::1::::<><>::
+Background.png::CompressedTexture2D::2101672477188354557::1693331809::1693331809::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Character/::1693120796
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Character/Attack-01/::1693120797
+Attack-01-Sheet.png::CompressedTexture2D::1637516869607068493::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Character/Dead/::1693120797
+Dead-Sheet.png::CompressedTexture2D::7372054679031469241::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Character/Idle/::1693120797
+Idle-Sheet.png::CompressedTexture2D::1417393111584854678::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Character/Jumlp-All/::1693120797
+Jump-All-Sheet.png::CompressedTexture2D::5805959523265145834::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Character/Jump/::1693120796
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Character/Jump-End/::1693120797
+Jump-End-Sheet.png::CompressedTexture2D::8373239360270885510::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Character/Jump-Start/::1693120797
+Jump-Start-Sheet.png::CompressedTexture2D::1827428187359044861::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Character/Run/::1693120797
+Run-Sheet.png::CompressedTexture2D::5436767088180279826::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/HUD/::1693142514
+Base-01.png::CompressedTexture2D::5710797884827121435::1693120796::1693120797::1::::<><>::
+f1attack2.png::CompressedTexture2D::8659568293433779910::1693142513::1693142514::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/::1693120796
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/::1693120796
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Hit-Vanish/::1693215052
+Hit-Sheet-Black.png::CompressedTexture2D::127307057115301373::1693120796::1693120797::1::::<><>::
+Hit-Sheet-White.png::CompressedTexture2D::6196993013419562589::1693120796::1693120797::1::::<><>::
+Hit-Sheet.png::CompressedTexture2D::8928026436065432349::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Idle/::1693120797
+Idle-Sheet-export-Back.png::CompressedTexture2D::3020519148298449935::1693120796::1693120797::1::::<><>::
+Idle-Sheet-White.png::CompressedTexture2D::2351887842001401107::1693120796::1693120797::1::::<><>::
+Idle-Sheet.png::CompressedTexture2D::5775833586572223819::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Run/::1693120797
+Run-Sheet-Black.png::CompressedTexture2D::5060834163409594553::1693120796::1693120797::1::::<><>::
+Run-Sheet-White.png::CompressedTexture2D::7670729675874434234::1693120796::1693120797::1::::<><>::
+Run-Sheet.png::CompressedTexture2D::8231005395964817170::1693120796::1693120796::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Walk/::1693120797
+Walk-Base-Sheet-White.png::CompressedTexture2D::7064545083576851257::1693120796::1693120796::1::::<><>::
+Walk-Base-Sheet.png::CompressedTexture2D::4014797071365304476::1693120796::1693120796::1::::<><>::
+Walk-Base-SheetBlack.png::CompressedTexture2D::7700786722935868830::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/::1693120796
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Attack/::1693120797
+Attack-Sheet.png::CompressedTexture2D::114679716830648738::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Fly/::1693120797
+Fly-Sheet.png::CompressedTexture2D::1966048097736376658::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Small Bee/Hit/::1693120797
+Hit-Sheet.png::CompressedTexture2D::2447048245586222434::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Snail/::1693120797
+all.png::CompressedTexture2D::4830549438827669612::1693120796::1693120797::1::::<><>::
+Dead-Sheet.png::CompressedTexture2D::6764601662091091326::1693120796::1693120797::1::::<><>::
+Hide-Sheet.png::CompressedTexture2D::2883848575416494311::1693120796::1693120797::1::::<><>::
+walk-Sheet.png::CompressedTexture2D::8965491887370151225::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Trees/::1693120797
+Background.png::CompressedTexture2D::1318754056403637038::1693120796::1693120797::1::::<><>::
+Dark-Tree.png::CompressedTexture2D::1058610678052155567::1693120796::1693120797::1::::<><>::
+Golden-Tree.png::CompressedTexture2D::3331618308153557177::1693120796::1693120797::1::::<><>::
+Green-Tree.png::CompressedTexture2D::4278766655633538381::1693120796::1693120797::1::::<><>::
+Red-Tree.png::CompressedTexture2D::6741756575765193023::1693120796::1693120797::1::::<><>::
+Yellow-Tree.png::CompressedTexture2D::2859526858190966470::1693120796::1693120797::1::::<><>::
+::res://F1 Conquistador Assets/Ronin Character/::1693926694
+bigboar.gd::GDScript::-1::1693827747::0::1::::<>CharacterBody2D<>::
+bigboar.tscn::PackedScene::4010016824800003135::1693926694::0::1::::<><>::res://F1 Conquistador Assets/Ronin Character/bigboar.gd<>uid://bjbfrkqpmvo5t::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Idle/Idle-Sheet-export-Back.png<>uid://cedrg1mjlglpp::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Run/Run-Sheet-Black.png<>uid://b2wy1kdxwr62::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Hit-Vanish/Hit-Sheet-Black.png<>uid://dhyk3kb4456ww::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Walk/Walk-Base-SheetBlack.png<>uid://cvfvs26cp25qi::::res://F1 Conquistador Assets/F1SoundEffects/slashkut-108175.mp3<>uid://b6diplikemai6::::res://F1 Conquistador Assets/F1SoundEffects/pig-oink-47167.mp3
+boar.gd::GDScript::-1::1693825881::0::1::::<>CharacterBody2D<>::
+boar.tscn::PackedScene::6725714296870960538::1693926694::0::1::::<><>::res://F1 Conquistador Assets/Ronin Character/boar.gd<>uid://8rjiqakj5oa2::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Idle/Idle-Sheet-White.png<>uid://dhj02dnn8m38y::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Run/Run-Sheet-White.png<>uid://cuj4tmnfqnwjl::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Hit-Vanish/Hit-Sheet-White.png<>uid://c7wea4lw7wtnd::::res://F1 Conquistador Assets/Legacy-Fantasy - High Forest 2.3/Mob/Boar/Walk/Walk-Base-Sheet-White.png<>uid://cvfvs26cp25qi::::res://F1 Conquistador Assets/F1SoundEffects/slashkut-108175.mp3<>uid://b6diplikemai6::::res://F1 Conquistador Assets/F1SoundEffects/pig-oink-47167.mp3
+f1attack1.png::CompressedTexture2D::7623724946477912653::1693120796::1693120797::1::::<><>::
+f1attack2.png::CompressedTexture2D::858497264670596888::1693142531::1693142532::1::::<><>::
+f1attack3.png::CompressedTexture2D::8287036949384957063::1693240917::1693240918::1::::<><>::
+f1Idle.png::CompressedTexture2D::2290487045572909497::1693120796::1693120797::1::::<><>::
+F1Player.tscn::PackedScene::3365110614012997151::1693926694::0::1::::<><>::res://F1 Conquistador Assets/Ronin Character/player.gd<>uid://dgu8vviptfovt::::res://F1 Conquistador Assets/Ronin Character/f1attack1.png<>uid://mh4lbe8h8ruu::::res://F1 Conquistador Assets/Ronin Character/f1attack2.png<>uid://7vr8s75uwyub::::res://F1 Conquistador Assets/Ronin Character/f1Idle.png<>uid://dqckj1x5lvmpb::::res://F1 Conquistador Assets/Ronin Character/f1attack3.png<>uid://57m1kd2gxvdx::::res://F1 Conquistador Assets/Ronin Character/jumping.png<>uid://chruhfop61iyt::::res://F1 Conquistador Assets/Ronin Character/f1run.png<>uid://bo0ubvo001xl7::::res://F1 Conquistador Assets/Ronin Character/f1takedamage.png<>uid://brrubmxcrbt4e::::res://F1 Conquistador Assets/F1SoundEffects/slash-21834.mp3<>uid://clqbc3pf68vl1::::res://F1 Conquistador Assets/F1SoundEffects/spade-hacking-sound-with-gore-effects-96909.mp3<>uid://bmyb82g86nnj4::::res://F1 Conquistador Assets/F1SoundEffects/running-1-6846.mp3<>uid://5cgpyas8tuwb::::res://F1 Conquistador Assets/F1SoundEffects/swing-whoosh-110410.mp3
+f1run.png::CompressedTexture2D::5300484820052110851::1693120796::1693120797::1::::<><>::
+f1takedamage.png::CompressedTexture2D::3421891189914240754::1693376736::1693376737::1::::<><>::
+f1walk.png::CompressedTexture2D::4271999427109940914::1693120796::1693120797::1::::<><>::
+falling.png::CompressedTexture2D::2842126110080141557::1693123590::1693123591::1::::<><>::
+jumping.png::CompressedTexture2D::2172500962929226761::1693123590::1693123591::1::::<><>::
+player.gd::GDScript::-1::1693828147::0::1::::<>CharacterBody2D<>::
+::res://F1 Conquistador Assets/SoundEffects/::1693333470

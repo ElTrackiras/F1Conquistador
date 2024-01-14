@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bmyb82g86nnj4"
+path="res://.godot/imported/running-1-6846.mp3-e9c0f4b8a2c4c3ceccf61c5d091031b3.mp3str"
+
+[deps]
+
+source_file="res://F1 Conquistador Assets/F1SoundEffects/running-1-6846.mp3"
+dest_files=["res://.godot/imported/running-1-6846.mp3-e9c0f4b8a2c4c3ceccf61c5d091031b3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

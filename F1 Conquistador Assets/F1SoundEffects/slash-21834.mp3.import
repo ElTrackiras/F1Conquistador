@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://brrubmxcrbt4e"
+path="res://.godot/imported/slash-21834.mp3-4fabf04f5adb53a85013d07752f0c419.mp3str"
+
+[deps]
+
+source_file="res://F1 Conquistador Assets/F1SoundEffects/slash-21834.mp3"
+dest_files=["res://.godot/imported/slash-21834.mp3-4fabf04f5adb53a85013d07752f0c419.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://co7r7cmnb0eq"
+path="res://.godot/imported/samurai-slash-6845.mp3-34f22062ca667dbe1c4b173a88f8a1f4.mp3str"
+
+[deps]
+
+source_file="res://F1 Conquistador Assets/F1SoundEffects/samurai-slash-6845.mp3"
+dest_files=["res://.godot/imported/samurai-slash-6845.mp3-34f22062ca667dbe1c4b173a88f8a1f4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

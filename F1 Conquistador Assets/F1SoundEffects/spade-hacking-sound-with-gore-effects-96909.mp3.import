@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://clqbc3pf68vl1"
+path="res://.godot/imported/spade-hacking-sound-with-gore-effects-96909.mp3-1743f88c06f11fad0d5ab6a2004b8814.mp3str"
+
+[deps]
+
+source_file="res://F1 Conquistador Assets/F1SoundEffects/spade-hacking-sound-with-gore-effects-96909.mp3"
+dest_files=["res://.godot/imported/spade-hacking-sound-with-gore-effects-96909.mp3-1743f88c06f11fad0d5ab6a2004b8814.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
